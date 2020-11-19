@@ -38,8 +38,8 @@ This project require NodeJS v12.
 Clone this project
 
 ```bash
-> git clone https://github.com/Rakha21/bot-wa-rakha
-> cd bot-wa-rakha
+> git clone https://github.com/Rakha21/wa-sap
+> cd wa-sap
 ```
 
 Install the dependencies:
