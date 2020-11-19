@@ -9,12 +9,12 @@
   "author": "RakhA21",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Rakha21/bot-wa-rakha.git"
+    "url": "https://github.com/Rakha21/wa-sap.git"
   },
   "bugs": {
-    "url": "https://github.com/Rakha21/bot-wa-rakha/issues"
+    "url": "https://github.com/Rakha21/wa-sap/issues"
   },
-  "homepage": "https://github.com/Rakha21/bot-wa-rakha",
+  "homepage": "https://github.com/Rakha21/wa-sap",
   "license": "ISC",
   "dependencies": {
     "@open-wa/wa-automate": "^3.0.16",
